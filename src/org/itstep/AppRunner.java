@@ -7,6 +7,6 @@ public class AppRunner {
 		char b = '\"';
 		char c = '/';
 				
-			System.out.println (+ b + c + b + " Alex " + b + c + b);
+			System.out.println (""+ b + c + b + " Alex " + b + c + b);
 	}
 }
